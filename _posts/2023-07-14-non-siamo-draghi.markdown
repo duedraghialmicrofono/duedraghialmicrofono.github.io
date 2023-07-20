@@ -12,4 +12,4 @@ Il piano è di avere un blog in cui poter postare i materiali degli episodi dei 
 
 Quindi ci sentiremo molto presto! Nel frattempo, un gioco di ruolo interessante
 
-<https://weregazelle.itch.io/armour-astir>
+[Armour Astir](https://weregazelle.itch.io/armour-astir)
