@@ -10,4 +10,6 @@ Da poco abbiamo separato il sito del podcast da quello di Non Dire Draghi, il co
 
 Il piano è di avere un blog in cui poter postare i materiali degli episodi dei vari podcast, in modo da lasciare traccia delle nostre idee.
 
-Quindi ci sentiremo molto presto!
+Quindi ci sentiremo molto presto! Nel frattempo, un gioco di ruolo interessante
+
+<https://weregazelle.itch.io/armour-astir>
