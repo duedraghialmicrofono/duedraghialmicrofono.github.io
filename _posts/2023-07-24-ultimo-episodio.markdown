@@ -5,6 +5,7 @@ date:   2023-07-24 07:00:00 +0200
 categories: 2 draghi al microfono
 tags: 2dm, chiacchiere
 ---
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2qqe3VmpwF7yv2Rags36NJ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Hello fellow adventurers!
 Gli ultimi episodi prima della pausa estiva sono sempre agrodolci. Ma abbiamo una piccola sorpresa per voi: prima di chiudere bottega avevo scritto un episodio sui giochi di ruolo da provare durante questi mesi di vacanza suggerendo giochi di ruolo famosi e non. Quell'episodio non ha mai visto la luce perché abbiamo deciso di dare spazio a Stef e alla fine del suo podcast 🧛. Vi lascio qui lo script, così potete dare un'occhiata.
