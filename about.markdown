@@ -2,6 +2,11 @@
 layout: page
 title: Chi Siamo 
 permalink: /chi-siamo/
+carousel: 
+	- images: 
+		- image: /assets/images/emilio_giada.jpg
+		- image: /assets/images/emilio.jpg
+		- image: /assets/images/giada.jpg
 ---
 
 ![emilio e giada](/assets/images/emilio_giada.jpg)
@@ -22,3 +27,5 @@ Insieme producono tre podcast: Due Draghi al Microfono, Storie di Vapore e Due D
 ![Ritratto Giada](/assets/images/giada.jpg)
 
 è una pedagogista, educatrice e giocatrice di ruolo a tutto tondo. Ha iniziato a giocare a Dungeons&Dragons in università e non ha mai smesso. Fa più lavori di quanti sia ammesso dalla legge - probabilmente - ma per Due Draghi al Microfono è produttrice esecutiva, co-host ed editor.
+
+ {% include carousel.html height="50" unit="%" duration="7" number="1" %}
