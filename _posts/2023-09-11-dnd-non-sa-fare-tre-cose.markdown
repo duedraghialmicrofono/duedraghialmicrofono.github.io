@@ -95,10 +95,6 @@ G+E: il lunedì non è mai stato così avventuroso!
 
 [saluti e shinaningas]
 
-# Domanda Discord
-
-@here, 
-
 # Descrizione
 
 Il primo episodio della nostra stagione inizia con tre giochi da provare: [Outgunned](https://www.kickstarter.com/projects/2lm/outgunned?lang=it), [Wilderfeast](https://www.kickstarter.com/projects/horribleguild/wilderfeast?lang=it) e [Triangle Agency.](https://www.kickstarter.com/projects/hauntedtable/triangle-agency-paranormal-investigation-ttrpg) Emilio e Giada ve ne parlano approfonditamente in questo episodio di review di quickstart.
