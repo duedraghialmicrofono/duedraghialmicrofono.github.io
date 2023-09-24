@@ -22,3 +22,6 @@ Insieme producono tre podcast: Due Draghi al Microfono, Storie di Vapore e Due D
 ![Ritratto Giada](/assets/images/giada.jpg)
 
 è una pedagogista, educatrice e giocatrice di ruolo a tutto tondo. Ha iniziato a giocare a Dungeons&Dragons in università e non ha mai smesso. Fa più lavori di quanti sia ammesso dalla legge - probabilmente - ma per Due Draghi al Microfono è produttrice esecutiva, co-host ed editor.
+
+
+<a href="https://www.drivethrurpg.com/top_100_small_press.php?src=affiliate3991617&affiliate_id=3991617"><img src="https://www.drivethrurpg.com/themes/dtrpg/images/728x90indies.png" border="0" title="Home to Incredible Indies - Available Now @ DriveThruRPG.com" alt="Banner: Home to Incredible Indies - Available Now @ DriveThruRPG.com" /></a>
