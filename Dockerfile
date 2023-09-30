@@ -2,7 +2,7 @@
 
 # At a minimum, use Ruby 2.5 or later
 
-FROM ruby:2.7-alpine3.15
+FROM ruby:3.2-alpine3.18
 
 # Add Jekyll dependencies to Alpine container
 RUN apk update
