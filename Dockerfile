@@ -13,5 +13,6 @@ RUN apk add --no-cache build-base gcc cmake git
 
 # Update the Ruby bundler and install Jekyll and gems
 RUN gem update bundler && gem install bundler jekyll
+RUN bundle install
 
 RUN apk add openssh
