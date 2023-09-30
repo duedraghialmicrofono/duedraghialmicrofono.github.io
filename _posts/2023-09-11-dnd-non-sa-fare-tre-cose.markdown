@@ -3,7 +3,7 @@ layout: post
 title:  "Dungeons&Dragons non sa fare tre cose"
 date:   2023-09-11 05:00:02 +0200
 categories: 2 draghi al microfono
-tags: 2dm
+tags: 2dm, review
 ---
 
 G: Ciao a tutti, sono Giada Taribelli e sono qui con Emilio Palmerini
