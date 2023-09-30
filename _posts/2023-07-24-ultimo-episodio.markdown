@@ -3,7 +3,7 @@ layout: post
 title:  "States of the Dragons e l'episodio perduto"
 date:   2023-07-24 07:00:00 +0200
 categories: 2 draghi al microfono
-tags: 2dm, chiacchiere
+tags: [2dm, chiacchiere]
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2qqe3VmpwF7yv2Rags36NJ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

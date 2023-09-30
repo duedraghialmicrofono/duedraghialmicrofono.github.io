@@ -3,7 +3,7 @@ layout: post
 title:  "Un corpo ancora freddo"
 date:   2023-08-01 22:29:02 +0200
 categories: 2 draghi al microfono
-tags: sda, sideCast
+tags: [sda, sideCast]
 ---
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4TvPIjEMhzskM9jMkSXWvY?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

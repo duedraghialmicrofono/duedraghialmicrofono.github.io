@@ -3,7 +3,10 @@ layout: post
 title:  "Questo è l'OSR che ci piace: Pirate Borg"
 date:   2023-09-25 05:00:02 +0200
 categories: 2 draghi al microfono
-tags: 2dm, review
+tags: [2dm, review]
+readtime: true
+before-content: banner_drivethrough.html
+after-content: banner_drivethrough.html
 ---
 
 # Introduzione

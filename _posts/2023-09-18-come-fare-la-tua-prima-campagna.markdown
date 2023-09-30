@@ -3,7 +3,7 @@ layout: post
 title:  "Come fare la tua prima campagna: mapping"
 date:   2023-09-18 05:00:02 +0200
 categories: 2 draghi al microfono
-tags: 2dm, tutorial
+tags: [2dm, tutorial]
 ---
 
 [#1049: Mapping — Magic: The Gathering Drive to Work Podcast](https://overcast.fm/+5mwb345Zc)

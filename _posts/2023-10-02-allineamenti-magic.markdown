@@ -3,7 +3,7 @@ layout: post
 title:  "Nuovi allineamenti per D&D"
 date:   2023-10-02 05:00:02 +0200
 categories: 2 draghi al microfono
-tags: 2dm, d&d
+tags: [2dm, d&d]
 ---
 
 # Introduzione

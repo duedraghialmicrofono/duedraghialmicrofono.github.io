@@ -3,7 +3,9 @@ layout: post
 title:  "Candela Obscura e i giochi cinematografici"
 date:   2023-10-09 05:00:02 +0200
 categories: 2 draghi al microfono
-tags: 2dm, review
+tags: [2dm, review]
+readtime: true
+before-content: banner_drivethrough.html
 ---
 
 # Introduzione
