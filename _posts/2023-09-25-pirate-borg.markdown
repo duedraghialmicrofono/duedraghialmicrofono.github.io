@@ -7,6 +7,7 @@ tags: [2dm, review]
 readtime: true
 before-content: banner_drivethrough.html
 after-content: banner_drivethrough.html
+comments: true
 ---
 
 # Introduzione
