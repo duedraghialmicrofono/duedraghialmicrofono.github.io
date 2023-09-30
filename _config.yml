@@ -80,16 +80,16 @@ share-links-active:
   linkedin: true
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "duedraghialmicrofono.com"
+# url-pretty: "duedraghialmicrofono.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 150
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: true
