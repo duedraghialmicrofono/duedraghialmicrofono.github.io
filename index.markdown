@@ -13,7 +13,7 @@ Due Draghi al Microfono è il podcast perfetto se vi servono dritte, approfondim
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/1xUd7hMLVjCUcvDDtqyP5q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
-Storie di Vapore è una storia emozionante ambientata in un mondo fantastico con mostri e avventuriere. La raccontiamo usando D&D e con l'aiuto della fantastica Viola Sanguinetti. 
+Storie di Vapore è una storia emozionante ambientata in un mondo fantastico con mostri e avventuriere. La raccontiamo usando D&D e con l'aiuto della fantastica [Viola Sanguinetti](https://www.instagram.com/viovagram/). 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/5tExscuC59ILdVBHxDF2kz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
