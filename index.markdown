@@ -21,5 +21,5 @@ Due Draghi Sidecast è quello che fa per voi se avete voglia di storie brevi e s
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/78Db3i2bBJd5MFtdOxSyr1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
-Se vuoi sostenerci scoprici su Patreon e ascolta Due Draghi Unlimited, dove parliamo di qualsiasi cosa fantasy ci piaccia particolarmente
+Se vuoi sostenerci scoprici su [Patreon](patreon.com/DueDraghiPlus) e ascolta Due Draghi Unlimited, dove parliamo di qualsiasi cosa fantasy ci piaccia particolarmente
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/5vXtEiIreNzB15dfapZjd2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
