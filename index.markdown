@@ -1,10 +1,9 @@
 ---
 layout: home
 ---
-![emilio e giada](/assets/images/emilio_giada.jpg)
+![emilio e giada](/assets/images/emilio_giada_2.webp)
 
-Ciao! Siamo [Giada](https://www.giadataribelli.com/) ed [Emilio](https://www.linkedin.com/in/
-emiliopalmerini), i due creators dietro a Due Draghi al Microfono, Storie di Vapore e Due Draghi SideCast. 
+Ciao! Siamo [Giada](https://www.giadataribelli.com/) ed [Emilio](https://github.com/emiliopalmerini), i due creators dietro a Due Draghi al Microfono, Storie di Vapore e Due Draghi SideCast. 
 La nostra avventura è rendere accessibili i giochi di ruolo e spingervi a giocare la vostra prima partita. Vogliamo abbassare la barriera di ingresso dei giochi di ruolo e scavalcare tutti quei mostri che vogliono impedire l'ingresso a nuovi giocatori e giocatrici dicendo frasi come "Eh, ma non è il vero gioco di ruolo!".
 Giocare è facile, giocare è bello e le uniche regole sono quelle che scegliamo di rispettare insieme.
 
